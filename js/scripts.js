@@ -1,15 +1,8 @@
 $(document).ready(function() {
 
-  var divCount = $("div.term").length;
-  var originalId = "";
-  var divTerm="";
-  var i = 0;
-  for (i = 0; i < divCount; i++) {
-    originalId = "t" + i.toString();
-
-    $("div.term").attr('id', originalId);
-    continue;
-  }
+  $('div.term').attr('id', function(n) {
+    return 't' + (n+1);
+  });
 
   $(".term").click(function() {
     var id = $(this).attr('id');
