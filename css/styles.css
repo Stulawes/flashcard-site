@@ -4,6 +4,9 @@ html {
 body {
   background: linear-gradient(-45deg,pink, #cce6ff) no-repeat;
 }
+.col-md-3 {
+  background-image: url("../img/card.jpg");
+}
 p {
   display:none;
   padding:10px;
