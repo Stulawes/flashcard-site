@@ -5,7 +5,7 @@ This is a responsive website with multiple flashcards. The user can click any ca
 - More than one definitions being shown at a single moment.
 - The background color of each definition changes with every click.
 - The process of assigning each element with an ID is automated.
-- Users will be able to add new terms and definition in the next version.
+- Users will be able to add new terms and definitions in the next version.
 
 
 ## Getting Starting
@@ -14,17 +14,17 @@ This is a responsive website with multiple flashcards. The user can click any ca
 ```
 $ git clone https://github.com/sn31/flashcard-site.git
 ```
- 
- ```
+
 2. Move to the project folder
  ```
  $ cd flashcard-site
  ```
-2. Open project folder
+
+3. Open project folder
  ```
  $ open . 
  ```
-```
+
 
 ## Technologies Used
 
