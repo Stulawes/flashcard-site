@@ -43,7 +43,7 @@ None known in this version.
 
 Please contact us at skye@dames.es for more information.
 
-## License:
+## License
 
 #### Copyright (c) 2018 
 
