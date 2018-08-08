@@ -43,10 +43,10 @@ None known in this version.
 
 Please contact us at skye@dames.es for more information.
 
-### License:
+## License:
 
 #### Copyright (c) 2018 
 
 Skye Nguyen, David Mortkowitz
 
-#### This software is licensed under the MIT license.
+This software is licensed under the MIT license.
